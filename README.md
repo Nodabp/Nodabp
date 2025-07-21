@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ---
 
-## ⚙️ 기술스택
+## ⚙️ Tech Stack
 
 ### 🧱 Frameworks & Libraries  
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)  
