@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 ## 📈 GitHub Stats
 
-![Byungmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=dracula)
+![Byungmin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nodabp&show_icons=true&theme=dracula)
 
 ---
 
