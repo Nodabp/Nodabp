@@ -82,7 +82,6 @@ Here are some ideas to get you started:
 
 ---
 
-<!-- 방문자 수 뱃지를 원하신다면 아래 코드를 추가하세요 -->
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Nodabp)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Nodabp)
 
 
