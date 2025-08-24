@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 ## 📌 Portfolio & Links
 
-- 🗂️ [Notion Portfolio 바로가기]('추후 업로드 예정')
+- 🗂️ [Portfolio 바로가기](https://lbmporpolio.vercel.app/)
 
 ---
 
